@@ -1,0 +1,3 @@
+/home/x/Desktop/cw1/bin/CMakeFiles/rebuild_cache.dir
+/home/x/Desktop/cw1/bin/CMakeFiles/z.dir
+/home/x/Desktop/cw1/bin/CMakeFiles/edit_cache.dir

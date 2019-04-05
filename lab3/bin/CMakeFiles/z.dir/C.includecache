@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/x/Desktop/lab3/zad2.c
+stdio.h
+-
+gsl/gsl_ieee_utils.h
+-
+gsl/gsl_blas.h
+-
+time.h
+-
+sys/time.h
+-
+unistd.h
+-
+sys/user.h
+-
+sys/resource.h
+-
+string.h
+-
+fcntl.h
+-
+unistd.h
+-
+
