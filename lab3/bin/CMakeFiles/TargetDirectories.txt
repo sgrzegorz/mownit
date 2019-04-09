@@ -1,3 +1,0 @@
-/home/x/Desktop/lab3/bin/CMakeFiles/rebuild_cache.dir
-/home/x/Desktop/lab3/bin/CMakeFiles/z.dir
-/home/x/Desktop/lab3/bin/CMakeFiles/edit_cache.dir

@@ -1,1 +1,0 @@
-/usr/bin/cc  -g  -Wall  -fPIC  -ldl   CMakeFiles/z.dir/main.c.o  -o z /usr/lib/x86_64-linux-gnu/libgsl.so /usr/lib/x86_64-linux-gnu/libgslcblas.so 
